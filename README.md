@@ -19,7 +19,7 @@ Safar: A personalized travel planning and travel assistant app made with Flutter
 Scan Rider: An Android app for vehicle details recognition using machine learning.
 
 🌍 Let's Connect!
-LinkedIn: Mohit Sharma
+LinkedIn: www.linkedin.com/in/mohit-sharma16
 Email: codewithmohitofficial@gmail.com
 <!---
 mohitsharma16/mohitsharma16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
