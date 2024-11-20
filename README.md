@@ -8,18 +8,18 @@ I'm a passionate final-year Computer Science student with a focus on mobile deve
 🌱 Learning and improving my skills in Android and ML to create impactful solutions.
 👯 Open to collaborating on mobile and ML projects that have real-world impact.
 
-💼 Technical Skills
-Languages: Kotlin, Dart, Python
-Frameworks: Flutter, TensorFlow, Scikit-Learn
-Tools & Platforms: Git, GitHub, Android Studio, Jupyter Notebook
+💼 Technical Skills\n
+Languages: Kotlin, Dart, Python\n
+Frameworks: Flutter, TensorFlow, Scikit-Learn\n
+Tools & Platforms: Git, GitHub, Android Studio, Jupyter Notebook\n
 Cloud: Amazon aws(basic)
 
 🚀 My Projects
-Safar: A personalized travel planning and travel assistant app made with Flutter.
-Scan Rider: An Android app for vehicle details recognition using machine learning.
+Safar: A personalized travel planning and travel assistant app made with Flutter.\n
+Scan Rider: An Android app for vehicle details recognition using machine learning.\n
 
 🌍 Let's Connect!
-LinkedIn: www.linkedin.com/in/mohit-sharma16
+LinkedIn: www.linkedin.com/in/mohit-sharma16\n
 Email: codewithmohitofficial@gmail.com
 <!---
 mohitsharma16/mohitsharma16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
