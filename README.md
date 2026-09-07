@@ -63,17 +63,6 @@ My focus is on shipping **reliable, high-performance, and scalable applications*
 
 ---
 
-### 💡 GlyphSense — Smart Notification Filter for Nothing Phones
-
-**Tech:** Kotlin, Android SDK, Nothing Glyph Matrix Developer Kit
-
-* Designed an interactive Glyph Matrix utility that displays pending notifications on the rear LED matrix of Nothing Phones
-* Filtered and prioritized critical app notifications into glanceable, battery-efficient glyph cycles without waking the main screen
-
-👉 https://github.com/mohitsharma16/GlyphSense-Smart-Notification-Filter-for-Nothing-Phones
-
----
-
 ### 🛡️ Aegis — Zero-Internet Offline Privacy Vault
 
 **Tech:** Kotlin, Jetpack Compose, Android Keystore, Room, Biometric API
@@ -82,6 +71,31 @@ My focus is on shipping **reliable, high-performance, and scalable applications*
 * Implemented Bring-Your-Own-Cloud (BYOC) encrypted vault backups via Android Storage Access Framework
 
 👉 https://github.com/mohitsharma16/Aegis
+
+---
+
+### 🚗 Ride Together — Real-time Ride Coordination Platform
+
+**Tech:** Kotlin, Jetpack Compose, OpenStreetMaps, Stadia Maps, Firebase, Firestore, RealtimeDatabase
+
+* Built a full-stack application for **ride coordination and shared mobility workflows**
+* Designed and implemented **end-to-end data flow** between client and backend services
+* Developed structured data models for **ride creation, matching, and user interaction**
+* Focused on **consistency, reliability, and scalability** in handling user and ride data
+* Implemented features around **state management, API integration, and real-time updates**
+
+👉 https://github.com/mohitsharma16/Ride-Together
+
+---
+
+### 📋 Flow — Smart Clipboard Manager
+
+**Tech:** Jetpack Compose, Android SDK
+
+* Built an Android utility app to **categorize and manage clipboard history**
+* Focused on **fast access and productivity workflows**
+
+👉 https://github.com/mohitsharma16/Flow---The-Intelligent-Contextual-Clipboard
 
 ---
 
