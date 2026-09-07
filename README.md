@@ -1,9 +1,9 @@
 # Mohit Sharma
 
-Android Engineer • Mobile Systems • On-device ML
+Graduate Software Engineer • Android & Systems • On-device ML
 
-I build Android applications that combine **real-time systems, clean architecture, and on-device intelligence**.
-My focus is on shipping **reliable, scalable mobile features** with strong performance and user impact.
+I am a graduate engineer with **1.2 years of experience** building mobile and desktop software that combines **real-time systems, clean architecture, and on-device intelligence**.
+My focus is on shipping **reliable, high-performance, and scalable applications** with measurable user impact.
 
 ---
 
@@ -11,6 +11,7 @@ My focus is on shipping **reliable, scalable mobile features** with strong perfo
 
 * Building accessibility-first Android applications for **low-vision users**
 * Integrating **on-device ML (TensorFlow Lite, ML Kit)** into real-time camera pipelines
+* Developing **Tatpar** — a lightweight, high-performance desktop code runner built with Tauri v2, Rust, and React
 * Designing **scalable mobile architectures (MVVM + modularization)**
 * Exploring **AI-assisted development workflows**
 
@@ -27,9 +28,21 @@ My focus is on shipping **reliable, scalable mobile features** with strong perfo
 
 ## 📱 Highlight Projects
 
+### ⚡ Tatpar — Lightweight Floating Desktop Code Scratchpad
+
+**Tech:** Tauri v2, Rust, React 19, TypeScript, Monaco Editor
+
+* Built a fast, persistent floating desktop scratchpad for instant local code execution across 6+ languages (Kotlin, Python, Java, JS, TS, C++)
+* Implemented native process execution, real-time runtime detection, and live process cancellation in Rust
+* Designed keyboard-first developer workflows, Monaco editor integration, and local-first data isolation
+
+👉 https://github.com/mohitsharma16/Tatpar
+
+---
+
 ### 🚗 Ride Together — Real-time Ride Coordination Platform
 
-**Tech:** Kotlin, Jetpack Compose, OpenStreetMaps, Stradia Maps, Firebase, Firestore, RealtimeDatabse
+**Tech:** Kotlin, Jetpack Compose, OpenStreetMaps, Stradia Maps, Firebase, Firestore, RealtimeDatabase
 
 * Built a full-stack application for **ride coordination and shared mobility workflows**
 * Designed and implemented **end-to-end data flow** between client and backend services
@@ -39,6 +52,7 @@ My focus is on shipping **reliable, scalable mobile features** with strong perfo
 
 👉 https://github.com/mohitsharma16/Ride-Together
 
+---
 
 ### 🥗 Healthy Aahar — Personalized Diet Platform
 
@@ -54,7 +68,7 @@ My focus is on shipping **reliable, scalable mobile features** with strong perfo
 
 ### 👁️ Accessibility Vision App (Sedris Vision)
 
-**Tech:** Kotlin, Jetpack Compose, TensorFlow Lite, ML Kit, and many more
+**Tech:** Kotlin, Jetpack Compose, TensorFlow Lite, ML Kit
 
 * Built a production app enabling **real-time object detection for low-vision users**
 * Optimized camera pipeline for **low latency and battery efficiency**
@@ -64,7 +78,7 @@ My focus is on shipping **reliable, scalable mobile features** with strong perfo
 
 ### 📋 Flow — Smart Clipboard Manager
 
-**Tech:** Jetpack Compose, android
+**Tech:** Jetpack Compose, Android SDK
 
 * Built an Android utility app to **categorize and manage clipboard history**
 * Focused on **fast access and productivity workflows**
@@ -75,46 +89,48 @@ My focus is on shipping **reliable, scalable mobile features** with strong perfo
 
 ### 🧩 Avlokan — Collaborative Review Platform
 
-**Tech:** TypeScript, React, Docker, PocketBase, React Router.
+**Tech:** TypeScript, React, Docker, PocketBase, React Router
 
 * Built a SaaS platform for **asset review and team collaboration**
 * Designed **scalable system architecture across frontend and backend**
-  
+
 👉 https://github.com/mohitsharma16/avlokan
+
 ---
 
 ## 🏗️ System Design Focus
 
 I actively work on:
 
-* **Mobile architecture design** (MVVM, modularization)
-* **Realtime data handling** with Firebase and APIs
-* **Offline-first systems**
+* **Mobile & Desktop Architecture Design** (MVVM, Clean Architecture, Tauri + Rust)
+* **Realtime data handling** with Firebase, WebSockets, and REST APIs
+* **Offline-first systems & local execution**
 * **Efficient ML inference on mobile**
-* **Performance optimization (CPU, memory, UI rendering)**
+* **Performance optimization** (CPU, memory, UI rendering, latency)
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Mobile:** Kotlin, Jetpack Compose, Android SDK
-**Architecture:** MVVM, Clean Architecture, Modular Design
-**Backend:** FastAPI, Node.js (NestJS)
-**Databases:** Firebase, MongoDB
-**ML:** TensorFlow Lite, OpenCV
-**Tools:** Git, CI/CD, Docker
+* **Languages:** Kotlin, TypeScript, Java, Python, Rust, C++
+* **Mobile:** Jetpack Compose, Android SDK, MVVM, Clean Architecture, Modular Design
+* **Frontend & Desktop:** React 19, Tauri v2, HTML/CSS
+* **Backend:** FastAPI, Node.js (NestJS), PocketBase
+* **Databases:** Firebase, MongoDB, SQLite
+* **ML:** TensorFlow Lite, OpenCV, ML Kit
+* **DevOps & Tools:** Git, GitHub Actions, CI/CD, Docker
 
 ---
 
 ## 📫 Connect
 
-* GitHub: https://github.com/mohitsharma16
-* LinkedIn: www.linkedin.com/in/mohit-sharma16
-* Email : mohit.sharma161203@gmail.com
+* **GitHub:** https://github.com/mohitsharma16
+* **LinkedIn:** https://www.linkedin.com/in/mohit-sharma16
+* **Email:** mohit.sharma161203@gmail.com
 
 ---
 
-> Currently focused on building high-impact Android systems and looking for opportunities to work on **scalable mobile products with strong engineering culture**.
+> Graduate Engineer with **1.2 years of experience** focused on building high-impact mobile & desktop systems. Seeking opportunities to contribute to **scalable products with a strong engineering culture**.
 
 <!---
 mohitsharma16/mohitsharma16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
