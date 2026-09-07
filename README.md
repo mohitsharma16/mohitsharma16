@@ -12,8 +12,8 @@ My focus is on shipping **reliable, high-performance, and scalable applications*
 * Building accessibility-first Android applications for **low-vision users**
 * Integrating **on-device ML (TensorFlow Lite, ML Kit)** into real-time camera pipelines
 * Developing **Tatpar** — a lightweight, high-performance desktop code runner built with Tauri v2, Rust, and React
-* Designing **scalable mobile architectures (MVVM + modularization)**
-* Exploring **AI-assisted development workflows**
+* Developing **Wayo** and exploring cutting-edge **Android 17 & Navigation 3** architectures
+* Designing **scalable mobile & desktop architectures**
 
 ---
 
@@ -40,29 +40,59 @@ My focus is on shipping **reliable, high-performance, and scalable applications*
 
 ---
 
-### 🚗 Ride Together — Real-time Ride Coordination Platform
+### 🧩 Avlokan — Collaborative Review Platform
 
-**Tech:** Kotlin, Jetpack Compose, OpenStreetMaps, Stradia Maps, Firebase, Firestore, RealtimeDatabase
+**Tech:** TypeScript, React, Docker, PocketBase, React Router
 
-* Built a full-stack application for **ride coordination and shared mobility workflows**
-* Designed and implemented **end-to-end data flow** between client and backend services
-* Developed structured data models for **ride creation, matching, and user interaction**
-* Focused on **consistency, reliability, and scalability** in handling user and ride data
-* Implemented features around **state management, API integration, and real-time updates**
+* Built a SaaS platform for **asset review and team collaboration**
+* Designed **scalable system architecture across frontend and backend**
 
-👉 https://github.com/mohitsharma16/Ride-Together
+👉 https://github.com/mohitsharma16/avlokan
 
 ---
 
-### 🥗 Healthy Aahar — Personalized Diet Platform
+### 📱 Wayo — Modern Android Application
 
-**Tech:** Kotlin, Jetpack Compose, FastAPI, MongoDB
+**Tech:** Kotlin, Jetpack Compose, Material 3, Navigation 3, Room, Play Billing
 
-* Built an end-to-end Android system for **personalized meal planning and nutrition tracking**
-* Integrated backend APIs with **clean MVVM architecture**
-* Designed for **real-time user personalization and responsive UI**
+* Built a modern, edge-to-edge Android application targeting **Android 17 (API 37)**
+* Implemented the latest **Navigation 3 architecture** with declarative, type-safe navigation
+* Integrated **Room (local-only, privacy-first)** storage and seamless in-app Google Play Billing
 
-👉 https://github.com/mohitsharma16/HealthyAahar
+👉 https://github.com/mohitsharma16/Wayo
+
+---
+
+### 💡 GlyphSense — Smart Notification Filter for Nothing Phones
+
+**Tech:** Kotlin, Android SDK, Nothing Glyph Matrix Developer Kit
+
+* Designed an interactive Glyph Matrix utility that displays pending notifications on the rear LED matrix of Nothing Phones
+* Filtered and prioritized critical app notifications into glanceable, battery-efficient glyph cycles without waking the main screen
+
+👉 https://github.com/mohitsharma16/GlyphSense-Smart-Notification-Filter-for-Nothing-Phones
+
+---
+
+### 🛡️ Aegis — Zero-Internet Offline Privacy Vault
+
+**Tech:** Kotlin, Jetpack Compose, Android Keystore, Room, Biometric API
+
+* Production-grade, offline-only password manager and authenticator with **Zero-Internet guarantee**
+* Implemented Bring-Your-Own-Cloud (BYOC) encrypted vault backups via Android Storage Access Framework
+
+👉 https://github.com/mohitsharma16/Aegis
+
+---
+
+### 🖥️ WallSync — Desktop Wallpaper Automation Daemon
+
+**Tech:** Go, Windows Win32 API, REST API
+
+* Built a lightweight background daemon that automatically updates desktop wallpapers at configurable intervals
+* Integrated category filtering, desktop notification delivery, and persistent background execution
+
+👉 https://github.com/mohitsharma16/wallsync
 
 ---
 
@@ -76,34 +106,12 @@ My focus is on shipping **reliable, high-performance, and scalable applications*
 
 ---
 
-### 📋 Flow — Smart Clipboard Manager
-
-**Tech:** Jetpack Compose, Android SDK
-
-* Built an Android utility app to **categorize and manage clipboard history**
-* Focused on **fast access and productivity workflows**
-
-👉 https://github.com/mohitsharma16/Flow---The-Intelligent-Contextual-Clipboard
-
----
-
-### 🧩 Avlokan — Collaborative Review Platform
-
-**Tech:** TypeScript, React, Docker, PocketBase, React Router
-
-* Built a SaaS platform for **asset review and team collaboration**
-* Designed **scalable system architecture across frontend and backend**
-
-👉 https://github.com/mohitsharma16/avlokan
-
----
-
 ## 🏗️ System Design Focus
 
 I actively work on:
 
-* **Mobile & Desktop Architecture Design** (MVVM, Clean Architecture, Tauri + Rust)
-* **Realtime data handling** with Firebase, WebSockets, and REST APIs
+* **Mobile & Desktop Architecture Design** (MVVM, Clean Architecture, Navigation 3, Tauri + Rust)
+* **Realtime data handling** with WebSockets, Firebase, and REST APIs
 * **Offline-first systems & local execution**
 * **Efficient ML inference on mobile**
 * **Performance optimization** (CPU, memory, UI rendering, latency)
@@ -112,11 +120,11 @@ I actively work on:
 
 ## ⚙️ Tech Stack
 
-* **Languages:** Kotlin, TypeScript, Java, Python, Rust, C++
-* **Mobile:** Jetpack Compose, Android SDK, MVVM, Clean Architecture, Modular Design
+* **Languages:** Kotlin, TypeScript, Java, Python, Rust, Go, C++
+* **Mobile:** Jetpack Compose, Android SDK, Navigation 3, MVVM, Clean Architecture, Modular Design
 * **Frontend & Desktop:** React 19, Tauri v2, HTML/CSS
 * **Backend:** FastAPI, Node.js (NestJS), PocketBase
-* **Databases:** Firebase, MongoDB, SQLite
+* **Databases:** Room, Firebase, MongoDB, SQLite
 * **ML:** TensorFlow Lite, OpenCV, ML Kit
 * **DevOps & Tools:** Git, GitHub Actions, CI/CD, Docker
 
